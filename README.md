@@ -85,8 +85,8 @@ Hard    ████░░░░░░░░  ~15%
 - [x] Tries
 - [x] Heap / Priority Queue
 - [x] Backtracking
-- [ ] Graphs
-- [ ] Advanced Graphs
+- [x] Graphs
+- [x] Advanced Graphs
 - [ ] 1D Dynamic Programming
 - [ ] 2D Dynamic Programming
 - [ ] Greedy
