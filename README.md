@@ -87,12 +87,12 @@ Hard    ██░░░░░░░░░░  ~14.00%
 - [x] Backtracking
 - [x] Graphs
 - [x] Advanced Graphs
-- [ ] 1D Dynamic Programming
-- [ ] 2D Dynamic Programming
-- [ ] Greedy
-- [ ] Intervals
-- [ ] Math & Geometry
-- [ ] Bit Manipulation
+- [x] 1D Dynamic Programming
+- [x] 2D Dynamic Programming
+- [x] Greedy
+- [x] Intervals
+- [x] Math & Geometry
+- [x] Bit Manipulation
 
 ---
 
