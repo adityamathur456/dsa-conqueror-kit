@@ -68,11 +68,10 @@ jobs:
           echo "========================================"
           printf "Problems Solved : %d\n" "$problems"
           printf "Java Files      : %d\n" "$java_files"
-          printf "Topics          : %d\n" "$topics"
           printf "Empty Folders   : %d\n" "$empty_folders"
 
           echo ""
-          echo "Topics List"
+          echo "Problems List"
           echo "-----------"
 
           for topic in "${topic_names[@]}"; do
